@@ -1,0 +1,23 @@
+{
+    "name": "jpeg-min",
+    "version": "0.0.1",
+    "description": "To minimize jpeg files",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YounGoat/nodejs.jpeg-min.git"
+    },
+    "keywords": [
+        "jpeg",
+        "guetzli"
+    ],
+    "author": "youngoat@163.com",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/YounGoat/nodejs.jpeg-min/issues"
+    },
+    "homepage": "https://github.com/YounGoat/nodejs.jpeg-min#readme"
+}
